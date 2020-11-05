@@ -58,7 +58,7 @@ Now browse to the app at [`http://localhost:4200/`].
 
 Created components based architecture so in future we can use same components to another application or same application
 
-Here i created 3 components
+Here i created 4 components
 
 - City selector
 - City's forecast (5 days)
