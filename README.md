@@ -1,3 +1,13 @@
+## Requirements
+
+We will use Open Weather Data to create a single page application that presents a list
+of 5 European cities. Your goal is to get the current
+weather situation displaying the city name plus average temperature and the wind
+strength. Clicking on an item shows the forecast in the next hours.
+
+**Note:- I cound't found any endpoint which will return hourly bases temprarure that's why i haven't implemented that functionality.**
+
+
 ## Getting Started
 
 To get you started you can simply clone the `weather-dashboard` repository and install the dependencies:
