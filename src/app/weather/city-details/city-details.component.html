@@ -1,0 +1,16 @@
+<div>
+  <div class="container">
+    <h4 class="card-title">
+      <span>Forecast</span>
+      <small>{{currentCity?.name}}</small>
+    </h4>
+    <div class="align-items-center">
+      <div class="forecast row col-md-12" *ngFor="let day of cityForecast5days">
+        <div class="col">{{day.dt_txt | date: 'EEE'}}</div>
+        <div class="col"><i class="owf owf-{{day.weather[0].id}}"></i></div>
+        <div class="col">{{day.main.temp | round}} ºC</div>
+        <div class="col">{{day.weather[0].main}}</div>
+      </div>
+    </div>
+  </div>
+</div>

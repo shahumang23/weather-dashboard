@@ -1,0 +1,11 @@
+table {
+  margin-bottom: 0;
+}
+
+table.city-table tbody tr:hover {
+  cursor: pointer;
+}
+
+table.city-table tbody tr td {
+  vertical-align: middle;
+}

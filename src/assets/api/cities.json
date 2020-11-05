@@ -1,0 +1,27 @@
+[
+  {
+    "id": 2267057,
+    "name": "Lisbon",
+    "countryCode": "PT"
+  },
+  {
+    "id": 2950159,
+    "name": "Berlin",
+    "countryCode": "DE"
+  },
+  {
+    "id": 3117735,
+    "name": "Madrid",
+    "countryCode": "ES"
+  },
+  {
+    "id": 2759794,
+    "name": "Amsterdam",
+    "countryCode": "NL"
+  },
+  {
+    "id": 2761369,
+    "name": "Vienna",
+    "countryCode": "AT"
+  }
+]
