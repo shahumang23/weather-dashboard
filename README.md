@@ -88,3 +88,4 @@ And that components used into app.component.html as well as weather-overview.com
 
 [RxJS](https://angular.io/guide/rx-library)
 
+[OpenWeatherFont](https://websygen.github.io/owfont/#css)
